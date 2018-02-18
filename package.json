@@ -15,12 +15,19 @@
   "license": "ISC",
   "devDependencies": {
     "@types/chai": "^4.0.5",
+    "@types/cli-table2": "^0.2.1",
+    "@types/lodash": "^4.14.104",
     "@types/mocha": "^2.2.44",
     "@types/node": "^8.0.53",
+    "@types/yargs": "^11.0.0",
     "chai": "^4.1.2",
     "mocha": "^4.0.1"
   },
   "dependencies": {
-    "node.bittrex.api": "^1.0.0"
+    "chalk": "^2.3.1",
+    "cli-table2": "^0.2.0",
+    "lodash": "^4.17.5",
+    "node.bittrex.api": "^1.0.0",
+    "yargs": "^11.0.0"
   }
 }
